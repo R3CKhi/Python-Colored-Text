@@ -7,12 +7,6 @@ New Colors Adding soon...
 
 <details><summary>CLICK ME</summary>
 <p>
-
-#### We can hide anything, even code!
-
-    ```ruby
-      puts "Hello World"
-    ```
-
+   import <Your_Path>.colo
 </p>
 </details>
