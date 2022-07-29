@@ -73,7 +73,7 @@ randrange(min_val , max_val)
   ```python
   print(str(randrange(1,3)))
   
-  Output >>> 1 or 2 or 3
+  Output >>> 1 or 2 
   ```
   > randrange(1,3) -->
   > [1,3)
