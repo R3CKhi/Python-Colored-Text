@@ -1,8 +1,8 @@
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Python-Colored-Text" />
+
 # Colored Text Class
 ##### Made by R3CKhi
 
-New Colors Adding soon...
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Python-Colored-Text" />
 
 ## How To Use ; 
 
