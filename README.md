@@ -1,3 +1,4 @@
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Python-Colored-Text" />
 # Colored Text Class
 ##### Made by R3CKhi
 
